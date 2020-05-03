@@ -5,9 +5,9 @@ using System.Windows.Forms;
 
 namespace calculator
 {
-    class RPN 
+    class penghitung 
     {
-        static public double Calculate(string input)
+        static public double hitung(string input)
         {
             try { return double.Parse(GetExpression(input));}
             catch (Exception) { return Counting(GetExpression(input));}

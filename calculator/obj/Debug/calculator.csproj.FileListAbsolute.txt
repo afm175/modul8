@@ -21,3 +21,14 @@ F:\program\Git\scientific-calculator-csharp\calculator\obj\Debug\calculator.cspr
 F:\program\Git\scientific-calculator-csharp\calculator\obj\Debug\calculator.csproj.CopyComplete
 F:\program\Git\scientific-calculator-csharp\calculator\obj\Debug\calculator.exe
 F:\program\Git\scientific-calculator-csharp\calculator\obj\Debug\calculator.pdb
+F:\program\praktikum dkp\modul 8\modul8-tugas\calculator\bin\Debug\calculator.exe
+F:\program\praktikum dkp\modul 8\modul8-tugas\calculator\bin\Debug\calculator.pdb
+F:\program\praktikum dkp\modul 8\modul8-tugas\calculator\bin\Debug\control1.pdb
+F:\program\praktikum dkp\modul 8\modul8-tugas\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+F:\program\praktikum dkp\modul 8\modul8-tugas\calculator\obj\Debug\calculator.Form1.resources
+F:\program\praktikum dkp\modul 8\modul8-tugas\calculator\obj\Debug\calculator.Properties.Resources.resources
+F:\program\praktikum dkp\modul 8\modul8-tugas\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+F:\program\praktikum dkp\modul 8\modul8-tugas\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+F:\program\praktikum dkp\modul 8\modul8-tugas\calculator\obj\Debug\calculator.csproj.CopyComplete
+F:\program\praktikum dkp\modul 8\modul8-tugas\calculator\obj\Debug\calculator.exe
+F:\program\praktikum dkp\modul 8\modul8-tugas\calculator\obj\Debug\calculator.pdb
